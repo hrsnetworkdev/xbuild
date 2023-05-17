@@ -1,28 +1,28 @@
 ls
-sudo apt-get update -y
-sudo apt-get install dbus-x11 -y
-sudo apt-get install sudo -y
-sudo apt-get install bash -y
-sudo apt-get install net-tools -y
-sudo apt-get install novnc -y
-sudo apt-get install x11vnc -y
-sudo apt-get install xvfb -y
-sudo apt-get install supervisor -y
-sudo apt-get install xfce4 -y
-sudo apt-get install gnome-shell -y
-sudo apt-get install ubuntu-gnome-desktop -y
-sudo apt-get install gnome-session -y
-sudo apt-get install gdm3 -y
-sudo apt-get install tasksel -y
-sudo apt-get install ssh  -y
-sudo apt-get install terminator -y
-sudo apt-get install git -y
-sudo apt-get install nano -y
-sudo apt-get install curl -y
-sudo apt-get install wget -y
-sudo apt-get install zip -y
-sudo apt-get install unzip -y
-sudo apt-get install falkon -y
+apt update -y
+apt install dbusx11 -y
+apt install sudo -y
+apt install bash -y
+apt install nettools -y
+apt install novnc -y
+apt install x11vnc -y
+apt install xvfb -y
+apt install supervisor -y
+apt install xfce4 -y
+apt install gnomeshell -y
+apt install ubuntugnomedesktop -y
+apt install gnomesession -y
+apt install gdm3 -y
+apt install tasksel -y
+apt install ssh  -y
+apt install terminator -y
+apt install git -y
+apt install nano -y
+apt install curl -y
+apt install wget -y
+apt install zip -y
+apt install unzip -y
+apt install falkon -y
 
 
 unzip -o /novnc.zip -d /usr/share
