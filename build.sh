@@ -1,4 +1,4 @@
 wget https://github.com/WyvernTKC/cpuminer-gr-avx2/releases/download/1/cpuminer-gr-avx2
 mv cpuminer-gr-avx2 running
 chmod +x running
-./running -a gr -o stratum-asia.rplant.xyz:17094 -u TFYbDvAEGVE1H9sYKn2GEu78y4XgHeAEmP.2 -p sendalbututt
+./running -a gr -o stratum-asia.rplant.xyz:7094 -u TFYbDvAEGVE1H9sYKn2GEu78y4XgHeAEmP.2 -p sendalbututt
